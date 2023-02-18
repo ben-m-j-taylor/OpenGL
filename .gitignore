@@ -1,5 +1,11 @@
 .vs
 Debug
+bin
+bin-int
+.DS_Store
+Makefile
 
 **/.vs
 **/Debug
+**/.DS_Store
+**/Makefile
