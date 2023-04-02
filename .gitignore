@@ -4,6 +4,7 @@ bin
 bin-int
 .DS_Store
 Makefile
+.cache
 
 **/.vs
 **/Debug
